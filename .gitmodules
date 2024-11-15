@@ -1,0 +1,3 @@
+[submodule "AC-kicad-library"]
+	path = AC-kicad-library
+	url = git@github.com:mradamcollins/AC-kicad-library.git
