@@ -1,4 +1,11 @@
-24311356308807552
+24318299924034999
+AC-kicad-library
+AC_Logo_17mm_20mm
+
+
+0
+0
+0
 AC-kicad-library
 MICRO-USB-SMD_10118193-0001LF
 USB 2.0 1 Horizontal attachment 5P Female -30℃~+80℃ Micro-B SMD USB Connectors ROHS
@@ -6,6 +13,27 @@ USB* Micro-B
 0
 11
 6
+AC-kicad-library
+RotaryEncoder_Bourns_PEC11R-4220F-S0024_Vertical_H20mm_CircularMountingHoles
+PEC11R Series - 12 mm Incremental Encoder with Switch, Flat 6mm D Shaft with 4.5mm flat 
+Bourns 12mm rotary encoder
+0
+7
+4
+AC-kicad-library
+StepperMotor_4.7mm_Sanyo_ultra-mini
+
+
+0
+4
+4
+AC-kicad-library
+StepperMotor_8mm_i500212644
+
+
+0
+4
+4
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
